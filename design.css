@@ -224,10 +224,10 @@ div.dokuwiki a.interwiki {
 
 }
 
-div.dokuwiki a.interwiki.iw_muccc {
-  background: none;
-  padding-left: 1px;
-}
+div.dokuwiki a.interwiki.iw_muccc { 
+  background: none; 
+  padding-left: 1px; 
+} 
 
 /* link to some embedded media */
 div.dokuwiki a.media {
@@ -444,7 +444,7 @@ div.dokuwiki table.inline td {
 /* toc backward fix */
 #dw__toc h3.toggle span {
   border: none;
-  display: none }
+  display: inline }
 #dw__toc h3.toggle {
   width: 96%; }
 
