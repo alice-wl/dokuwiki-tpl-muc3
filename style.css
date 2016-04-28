@@ -84,6 +84,7 @@ ul ul, ol ul, ol ol, ul ol {
 	color: #000;
 	text-decoration: none;
 	padding: 4px;
+	background: none;
 }
 #menu .selected	{
 	color: #888;
